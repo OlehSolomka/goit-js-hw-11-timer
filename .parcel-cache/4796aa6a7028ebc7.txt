@@ -23,7 +23,7 @@
 46E:\GoIT\goit-js-hw-11-timer\node_modules\acorn132803107648498972 1
 59E:\GoIT\goit-js-hw-11-timer\node_modules\lodash\multiply.js121436361000000000 0
 59E:\GoIT\goit-js-hw-11-timer\node_modules\lodash\_baseSet.js121436361000000000 0
-40E:\GoIT\goit-js-hw-11-timer\package.json132803648824466990 0
+40E:\GoIT\goit-js-hw-11-timer\package.json132803656636180284 0
 60E:\GoIT\goit-js-hw-11-timer\node_modules\assert\package.json132803107696963141 0
 57E:\GoIT\goit-js-hw-11-timer\node_modules\lodash\fp\any.js121436361000000000 0
 58E:\GoIT\goit-js-hw-11-timer\node_modules\crypto-browserify132803107718797752 1
@@ -71,7 +71,7 @@
 61E:\GoIT\goit-js-hw-11-timer\node_modules\stream-http\index.js121436361000000000 0
 79E:\GoIT\goit-js-hw-11-timer\node_modules\url\node_modules\punycode\package.json132803107721569407 0
 64E:\GoIT\goit-js-hw-11-timer\node_modules\is-plain-obj\index.d.ts121436361000000000 0
-32E:\GoIT\goit-js-hw-11-timer\dist132803645706611891 1
+32E:\GoIT\goit-js-hw-11-timer\dist132803662566411589 1
 81E:\GoIT\goit-js-hw-11-timer\node_modules\postcss-minify-font-values\dist\index.js121436361000000000 0
 55E:\GoIT\goit-js-hw-11-timer\node_modules\.bin\is-docker132803108020594314 0
 79E:\GoIT\goit-js-hw-11-timer\node_modules\es-abstract\2021\IsConcatSpreadable.js121436361000000000 0
@@ -131,7 +131,7 @@
 58E:\GoIT\goit-js-hw-11-timer\node_modules\source-map-js\lib132803107216373826 1
 57E:\GoIT\goit-js-hw-11-timer\node_modules\jsdom\lib\api.js121436361000000000 0
 71E:\GoIT\goit-js-hw-11-timer\node_modules\browserify-zlib\lib\binding.js131409793060000000 0
-38E:\GoIT\goit-js-hw-11-timer\index.html132803621183960937 0
+38E:\GoIT\goit-js-hw-11-timer\index.html132803661831756991 0
 74E:\GoIT\goit-js-hw-11-timer\node_modules\es-abstract\2021\TimeWithinDay.js121436361000000000 0
 56E:\GoIT\goit-js-hw-11-timer\node_modules\saxes\README.md121436361000000000 0
 53E:\GoIT\goit-js-hw-11-timer\node_modules\bcrypt-pbkdf132803107735572664 1
@@ -14146,7 +14146,7 @@
 86E:\GoIT\goit-js-hw-11-timer\node_modules\caniuse-lite\data\features\intrinsic-width.js121436361000000000 0
 79E:\GoIT\goit-js-hw-11-timer\node_modules\caniuse-lite\data\features\jpeg2000.js121436361000000000 0
 77E:\GoIT\goit-js-hw-11-timer\node_modules\caniuse-lite\data\features\jpegxl.js121436361000000000 0
-43E:\GoIT\goit-js-hw-11-timer\dist\index.html132803645705991810 0
+43E:\GoIT\goit-js-hw-11-timer\dist\index.html132803662566351953 0
 77E:\GoIT\goit-js-hw-11-timer\node_modules\@parcel\core\src\summarizeRequest.js121436361000000000 0
 77E:\GoIT\goit-js-hw-11-timer\node_modules\caniuse-lite\data\features\jpegxr.js121436361000000000 0
 99E:\GoIT\goit-js-hw-11-timer\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js121436361000000000 0
