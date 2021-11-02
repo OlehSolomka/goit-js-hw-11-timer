@@ -1,0 +1,59 @@
+html,
+body {
+  height: 100%;
+  font-family: "Megrim", cursive;
+}
+
+body {
+  background: radial-gradient(
+    circle,
+    rgba(137, 197, 245, 1) 11%,
+    rgba(54, 54, 60, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.container {
+  position: relative;
+}
+.timer {
+  display: flex;
+  position: relative;
+  right: 50%;
+  top: 50%;
+  transform: translate(50%, 50%);
+  justify-content: center;
+  align-content: space-between;
+}
+#timer-1 {
+  margin-bottom: 50px;
+}
+.field {
+  display: block;
+  width: auto;
+}
+.field:not(:last-child) {
+  margin-right: 40px;
+  position: relative;
+}
+.field:not(:last-child)::after {
+  content: ":";
+  position: absolute;
+  top: 17%;
+  right: -15%;
+  font-size: 12vmin;
+  border-radius: 2vmin;
+}
+.value {
+  display: block;
+  font-size: 160px;
+  color: black;
+}
+
+.label {
+  display: block;
+  padding: 1vmin;
+  font-size: 3vmin;
+  text-align: center;
+  border-radius: 3vmin;
+}
